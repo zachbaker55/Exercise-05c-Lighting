@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="World" type="Spatial"]
+
+[node name="Position3D" type="Position3D" parent="."]
+
+[node name="Pivot" type="Spatial" parent="."]
